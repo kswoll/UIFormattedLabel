@@ -1,7 +1,7 @@
 UIFormattedLabel
 ==============================
 
-<img src="ScreenShot.png" width="320" height="480" />
+<img src="ScreenShot.png" width="320" height="480" align="right" />
 
 A control for displaying a string of text where various words and phrases can have different 
 formatting options and behavior from surrounding text.  The following attributes apply to 
